@@ -10,7 +10,7 @@ This report outlines a  security vulnerability in the Indi Browser (com.gurry.kv
 - **Version**: `v.2.11.23 (102)`
 
 ## Vulnerability Description
-The `com.example.gurry.kvbrowser.webview` of the `com.gurry.kvbrowser` app processes intents without properly validting data origin.
+The `com.example.gurry.kvbrowser.webview` of the `com.gurry.kvbrowser` app processes intents without properly validating data origin.
 
 
 ```markdown
